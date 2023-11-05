@@ -3,13 +3,13 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=russetfox&label=Profile%20views&color=0e75b6&style=flat" alt="russetfox" /> </p>-->
 
-- 🔭 I’m currently working on [my engineering thesis](https://github.com/dzajcu/pwr-app)
+- 🔭 I’m currently working on [my engineering thesis](https://github.com/RussetFox/Engineering-Thesis-Wirtualna-Politechnika)
 
-- 🌱 I’m currently learning **Fundamentals of Digital Marketing and UI/UX design**
+- 🌱 I’m currently learning **Fundamentals of Digital Marketing and UI/UX design and Front End Programming**
 
 - 💬 Ask me about **cocktail recommendations (I've been working as a bartender for over 2 years now)**
 
-- 📫 How to reach me **kacperd.piejko@gmail.com**
+- 📫 How to reach me **kacperd.piejko@gmail.com** or [via linkedin](https://www.linkedin.com/in/kacper-piejko-7271a6189/)
 
 - ⚡ Fun fact **I'm keen on experiencing new things in life. Whenever there's an opportunity to grow I try to seize it**
 
